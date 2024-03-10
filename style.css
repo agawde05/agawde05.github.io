@@ -1,0 +1,7 @@
+/* style.css */
+
+/* Reduce margin and padding for course list items */
+#courseParagraph p {
+    margin: 0;
+    padding: 5px 0; /* Adjust the padding as needed */
+}
