@@ -3,7 +3,7 @@
 // Data structure containing course names and corresponding IDs
 const courses = [
     {
-        name: "Linear Algebra",
+        name: "Linear Algebra (In Progress)",
         id: "math296",
         pdfUrl: "https://raw.githubusercontent.com/agawde05/notes/main/linear-algebra/master.pdf",
     },
